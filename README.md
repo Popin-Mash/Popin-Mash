@@ -6,7 +6,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,mongodb,postgres,prisma,nest" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,mongodb,postgres,prisma,nest,docker" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
