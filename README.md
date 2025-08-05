@@ -1,4 +1,4 @@
-### Hi there !
+##3 Hi! I'm a full-stack developer and a final-year Computer Science student at Build Bright University (BBU), graduating in 2025. I'm passionate about solving real-world problems using modern web technologies.
 <br>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhpOXpnM3JhZmJ2czF6cXQyZ3k2ZjBwdGU5bzJwamNwcWV5bXZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="300"/>
