@@ -6,6 +6,7 @@
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,mongodb,postgres,prisma,nest" />
+  <br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
 
