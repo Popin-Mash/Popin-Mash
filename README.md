@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVhbmhydzh5cXN6YmswOWFtN3lqcng1dnVyam5zMnJucnVlYXluYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" height="300"/>
 </div>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,mongodb,postgres,prisma,nest" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
