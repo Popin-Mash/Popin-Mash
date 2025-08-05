@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pisey you can call me Sey
 <br>
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg1ejFxeGdlZWlnaTY0aWJuNGIyd3B5OWV2MnF5dHF3eHI0MTI1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLpclx5lofmqnEswm0/giphy.gif" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA5NzQzeTBoanY0eXE3bW9xcmRiNjA3NzA2bHpqcGpxdTdtazYzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" height="300"/>
 </div>
 <br>
 <p align="center">
