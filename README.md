@@ -1,11 +1,7 @@
-<div >
-  <a href="your-linkedin-URL">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3MDM5bmJzNGo4OTZ6YWFhdTcxa2kxN2gzNjdpMW4zaXc5NXlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" alt="LinkedIn Badge"/ width="100">
-  </a>
-</div>
+### Hi there !
 <br>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA5NzQzeTBoanY0eXE3bW9xcmRiNjA3NzA2bHpqcGpxdTdtazYzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhpOXpnM3JhZmJ2czF6cXQyZ3k2ZjBwdGU5bzJwamNwcWV5bXZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="300"/>
 </div>
 <br>
 <p align="center">
