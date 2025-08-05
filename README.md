@@ -1,6 +1,6 @@
 <div >
   <a href="your-linkedin-URL">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3MDM5bmJzNGo4OTZ6YWFhdTcxa2kxN2gzNjdpMW4zaXc5NXlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" alt="LinkedIn Badge"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ3MDM5bmJzNGo4OTZ6YWFhdTcxa2kxN2gzNjdpMW4zaXc5NXlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" alt="LinkedIn Badge"/ width="100">
   </a>
 </div>
 <br>
